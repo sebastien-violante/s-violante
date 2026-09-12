@@ -1,6 +1,6 @@
 import "./App.css";
-import data from "./data/experiences.json"
-import Card from './components/Card/Card'
+//import data from "./data/experiences.json"
+//import Card from './components/Card/Card'
 
 function App() {
   return (
