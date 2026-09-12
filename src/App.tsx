@@ -26,9 +26,7 @@ function App() {
           <h3>Centres d'inétrêt</h3>
         </button>
       </section>
-        {data.map((experience, index) => (
-          <Card key={index}/>
-        ))}
+        
       <section>
 
       </section>
