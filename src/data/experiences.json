@@ -1,0 +1,25 @@
+[
+        {
+            "annee" : "1992",
+            "fonction" : "mécanicien",
+            "description" : "formation mécanicien radar et radio",
+            "type" : "training",
+            "pictures" : [
+                "/experience1.png",
+                "/experience2.png",
+                "/experience3.png"
+            ]             
+        },
+        {
+            "annee" : "2000",
+            "fonction" : "aspirant",
+            "description" : "formation officier",
+            "type" : "training",
+            "pictures" : [
+                "/experience1.png",
+                "/experience2.png",
+                "/experience3.png"
+            ]             
+        }
+    
+]

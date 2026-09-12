@@ -1,0 +1,44 @@
+body {
+  background: #000000fb;
+  color: #fffffff5;
+  max-width: 1200px;
+  margin:40px auto;
+    font-family: "Michroma", sans-serif;
+
+}
+
+.icon {
+  height: 50px;
+  width: 50px;
+  border-radius: 4px;
+}
+
+
+.mainBulle {
+  font-size: 16px;
+  padding: 10px;
+    border: 1px solid white;
+  border-radius: 10px;
+  background: none;
+  color: white;
+  font-family: "Michroma", sans-serif;
+  width: 100%;
+  max-width: 300px;
+
+}
+
+.ratelier {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+  margin: 50px auto;
+}
+
+
+@media screen and (max-width: 767px) {
+  .ratelier {
+    flex-direction: column;
+  }
+}
